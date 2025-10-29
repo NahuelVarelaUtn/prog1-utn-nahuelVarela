@@ -1,0 +1,4 @@
+Lapicera,120.5,30
+Cuaderno,550.0,15
+Goma,75.0,40
+Cartuchera,20000.0,15
